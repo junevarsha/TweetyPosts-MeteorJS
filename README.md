@@ -49,4 +49,5 @@ autovalue to schema to get the things automatically included along with the body
 
 step9)
 
-publish and subscribe from the server
+publish and subscribe 
+Security mechanisms (optional)
